@@ -26,7 +26,10 @@ POC:
 
 - ✅ Tested to get a good prompt that does code translation right (for now, customised to my stack)
 - ✅ Implemented a Stream that does it
-- Implement `/chat/simple` (`/chat/completions` string->string chat completion stream)
+- ✅ Implement `/chat/simple` (`/chat/completions` string->string chat completion stream)
+
+19 aug 2024: due to trying to focus, I will pick this up another time! Ready to try!
+
 - Make it actually respond with functional code in a ZIP
 - Test it on a small repo I have and see if the result is promising...
 
